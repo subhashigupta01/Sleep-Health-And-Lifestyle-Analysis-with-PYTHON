@@ -1,4 +1,4 @@
-# Sleep-Health-And-Lifestyle-Analysis-with-PYTHON
+# Sleep-Health-And-Lifestyle-Analysis-with-Python
 It is my second repository on Sleep, Health, Lifestyle analysis.
 
 **Data Description**
@@ -8,6 +8,12 @@ covering a wide range of variables related to sleep and daily habits.
 It includes details such as gender, age, occupation, sleep duration, quality of sleep,
 physical activity level, stress levels, BMI category, blood pressure, heart rate, 
 daily steps, and the presence or absence of sleep disorders.
+
+**Key Features of the Dataset:**
+***Comprehensive Sleep Metrics:*** Explore sleep duration, quality, and factors influencing sleep patterns.
+***Lifestyle Factors:*** Analyze physical activity levels, stress levels, and BMI categories.
+***Cardiovascular Health:*** Examine blood pressure and heart rate measurements.
+***Sleep Disorder Analysis:*** Identify the occurrence of sleep disorders such as Insomnia and Sleep Apnea.
 
 1.Person ID: An identifier for each individual.
 <br>
@@ -35,6 +41,16 @@ daily steps, and the presence or absence of sleep disorders.
 <br>
 13.Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
 
+**Details about Sleep Disorder Column:**
+
+    ***None:*** The individual does not have any specific sleep disorder.
+    <br>
+    ***Insomnia:*** The individual who is experiencing difficulty falling asleep or staying asleep, leading to poor-quality sleep.
+    <br>
+    ***Sleep Apnea:*** The individual who is suffering from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
+
+
 **Project Objectives**
 
 The main objectives of the project is to analyze and visualize the data related to health, lifestyle, and demographic factors, derive actionable insights from the visualizations, and predict stress levels.
+
