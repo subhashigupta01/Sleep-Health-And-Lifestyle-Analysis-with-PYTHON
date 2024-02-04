@@ -9,6 +9,7 @@ It includes details such as gender, age, occupation, sleep duration, quality of 
 physical activity level, stress levels, BMI category, blood pressure, heart rate, 
 daily steps, and the presence or absence of sleep disorders.
 
+
 **Key Features of the Dataset:**
 <br>
 ***Comprehensive Sleep Metrics:*** Explore sleep duration, quality, and factors influencing sleep patterns.
@@ -50,8 +51,10 @@ daily steps, and the presence or absence of sleep disorders.
 
 **Details about Sleep Disorder Column:**
 
-    None: The individual does not have any specific sleep disorder.
-    Insomnia: The individual who is experiencing difficulty falling asleep or staying asleep, leading to poor-quality sleep.
+None: The individual does not have any specific sleep disorder.
+
+Insomnia: The individual who is experiencing difficulty falling asleep or staying asleep, leading to poor-quality sleep.
+
 Sleep Apnea: The individual who is suffering from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
 
 
