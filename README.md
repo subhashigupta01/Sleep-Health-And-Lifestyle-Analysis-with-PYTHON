@@ -11,8 +11,11 @@ daily steps, and the presence or absence of sleep disorders.
 
 **Key Features of the Dataset:**
 ***Comprehensive Sleep Metrics:*** Explore sleep duration, quality, and factors influencing sleep patterns.
+<br>
 ***Lifestyle Factors:*** Analyze physical activity levels, stress levels, and BMI categories.
+<br>
 ***Cardiovascular Health:*** Examine blood pressure and heart rate measurements.
+<br>
 ***Sleep Disorder Analysis:*** Identify the occurrence of sleep disorders such as Insomnia and Sleep Apnea.
 
 1.Person ID: An identifier for each individual.
@@ -43,11 +46,9 @@ daily steps, and the presence or absence of sleep disorders.
 
 **Details about Sleep Disorder Column:**
 
-    ***None:*** The individual does not have any specific sleep disorder.
-    <br>
-    ***Insomnia:*** The individual who is experiencing difficulty falling asleep or staying asleep, leading to poor-quality sleep.
-    <br>
-    ***Sleep Apnea:*** The individual who is suffering from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
+    None: The individual does not have any specific sleep disorder.
+    Insomnia: The individual who is experiencing difficulty falling asleep or staying asleep, leading to poor-quality sleep.
+Sleep Apnea: The individual who is suffering from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
 
 
 **Project Objectives**
