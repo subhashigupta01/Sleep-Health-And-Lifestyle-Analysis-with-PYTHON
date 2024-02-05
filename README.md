@@ -71,5 +71,38 @@ I used google colab to create and analyse data. Here going to share what exactly
 1. **Data Cleaning**- Replace and clean data while filling null values.
 2. **Exploratory Data Analysis (EDA)**-Analyze or summarize data for knowing pattern of data,so that I can get insights from it.Doing this used Histplot, Barplot, swarmplot, Regplot, Lmplot, kdeplot etc.
 
+**Data analyze with python**-[Sleep_Disorder_Analyses](https://github.com/subhashigupta01/Sleep-Health-And-Lifestyle-Analysis-with-PYTHON/blob/6482f2f6ab83093eedc9116e5df5acb2a6c6bf7e/Sleep_health_and_lifestyle_dataset.ipynb)
+
+**Conclusions**
+
+The analysis of the dataset has revealed several noteworthy findings:
+
+**Age and Stress:** Younger individuals tend to experience higher levels of stress compared to their older counterparts. Additionally, men, on average, report higher stress levels than women. Surprisingly, there is no discernible correlation between stress levels and the presence of sleep disorders.
+
+**Physical Activity and Sleep:** The level of physical activity shows a positive correlation with sleep duration. However, for individuals with Apnea, higher physical activity is associated with shorter sleep duration.
+
+**Impact of Sleep Disorders:** Sleep disorders do not appear to significantly affect sleep duration differently among men and women.
+
+**Prevalence of Insomnia and Apnea:** Insomnia is most prevalent in the age range of 40-45, while Apnea occurs most frequently between the ages of 50-60.
+
+**Occupational Sleep Patterns:** Notably, Engineers and Lawyers exhibit the longest average sleep duration, while Teachers and Salespeople tend to sleep the least. Specific occupations with varying occurrences of sleep disorders include:
+
+Insomnia: Teachers, Salespeople
+Apnea: Nurses
+No Disorder: Lawyers, Doctors, Engineers, Accountants
+
+**Gender Disparities in Sleep Disorders:**
+
+Apnea is more prevalent among women.
+Doctors and Lawyers, predominantly male occupations, show a higher occurrence of no sleep disorder.
+
+**Apnea and Weight:** A significant proportion of individuals with Apnea are overweight, particularly women. However, physical activity level alone may not explain the higher prevalence of Apnea in women compared to men.
+
+**Occupational and Gender Distribution:**
+All Nurses are females, and most individuals with Apnea are nurses.
+Among those with no sleep disorders, a majority are Doctors and Lawyers, who are predominantly male.
+There are no men over 50 years of age, and Apnea is more prevalent among women older than 48
+
+These findings provide valuable insights into the complex interplay between age, gender, occupation, physical activity, and sleep patterns within the analyzed dataset.
 
 
