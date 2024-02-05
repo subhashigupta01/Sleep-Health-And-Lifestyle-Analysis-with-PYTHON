@@ -68,13 +68,13 @@ This data is created for illustrative purposes. The main objectives of the proje
 I used google colab to create and analyse data. Here going to share what exactly I have done in the project.
 
 1. **Data Cleaning**- Replace and clean data while filling null values.
-2. **Exploratory Data Analysis (EDA)**-Analyze or summarize data for knowing pattern of data,so that I can get insights from it.Doing this used Histplot, Barplot, swarmplot, Regplot, Lmplot, kdeplot etc.
+2. **Exploratory Data Analysis (EDA)**-Analyze or summarize data for knowing pattern of data,so that I can get insights from it. For doing it I used histplot, barplot, swarmplot, regplot, lmplot, kdeplot etc.
 
 **Data analyze with python**-[Sleep_Disorder_Analyses](https://github.com/subhashigupta01/Sleep-Health-And-Lifestyle-Analysis-with-PYTHON/blob/6482f2f6ab83093eedc9116e5df5acb2a6c6bf7e/Sleep_health_and_lifestyle_dataset.ipynb)
 
 **Conclusions**
 
-The analysis of the dataset has revealed several noteworthy findings:
+The analysis of the dataset has revealed several valuable findings:
 
 **Age and Stress:** Younger individuals tend to experience higher levels of stress compared to their older counterparts. Additionally, men, on average, report higher stress levels than women. Surprisingly, there is no discernible correlation between stress levels and the presence of sleep disorders.
 
