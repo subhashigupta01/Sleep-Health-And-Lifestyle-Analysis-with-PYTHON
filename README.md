@@ -23,7 +23,6 @@ Cardiovascular Health: Examine blood pressure and heart rate measurements.
 Sleep Disorder Analysis: Identify the occurrence of sleep disorders such as Insomnia and Sleep Apnea.
 <br>
 
-
 1. Person ID: An identifier for each individual.
 <br>
 2. Gender: The gender of the person (Male/Female).
@@ -49,7 +48,6 @@ Sleep Disorder Analysis: Identify the occurrence of sleep disorders such as Inso
 12.Daily Steps: The number of steps the person takes per day.
 <br>
 13.Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
-
 
 **Details about Sleep Disorder Column:**
 
