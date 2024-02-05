@@ -87,7 +87,9 @@ The analysis of the dataset has revealed several valuable findings:
 **Occupational Sleep Patterns:** Notably, Engineers and Lawyers exhibit the longest average sleep duration, while Teachers and Salespeople tend to sleep the least. Specific occupations with varying occurrences of sleep disorders include:
 
 Insomnia: Teachers, Salespeople
+<br>
 Apnea: Nurses
+<br>
 No Disorder: Lawyers, Doctors, Engineers, Accountants
 
 **Gender Disparities in Sleep Disorders:**
