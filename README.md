@@ -62,5 +62,14 @@ Sleep Apnea: The individual who is suffering from pauses in breathing during sle
 
 **Project Objectives**
 
-This data is created for illustrative purposes. The main objectives of the project is to analyze and visualize the data related to health, lifestyle, and demographic factors, derive actionable insights from the visualizations, and predict stress levels.
+This data is created for illustrative purposes. The main objectives of the project is to analyze and visualize the data related to health, lifestyle, and demographic factors, derive actionable insights from the visualizations, and predict stress levels. 
+
+**What I done to get insight from Data**
+
+I used google colab to create and analyse data. Here going to share what exactly I have done in the project.
+
+1. **Data Cleaning**- Replace and clean data while filling null values.
+2. **Exploratory Data Analysis (EDA)**-Analyze or summarize data for knowing pattern of data,so that I can get insights from it.Doing this used Histplot, Barplot, swarmplot, Regplot, Lmplot, kdeplot etc.
+
+
 
